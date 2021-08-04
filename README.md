@@ -1,4 +1,4 @@
-# AbhiRetailManager
+# Abhi Retail Manager
 A full-fledged Retail Management system built using C#.
 
 Uses multiple technologies such as Databases, Web API, coding using C#.
